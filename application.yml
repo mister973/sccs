@@ -1,2 +1,3 @@
-user:
-  login: kevinDefault
+my-app:
+  user:
+    login: kevin{profile}
